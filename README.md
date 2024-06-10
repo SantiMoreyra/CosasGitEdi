@@ -1,2 +1,2 @@
 # CosasGitEdi
-hola mundo
+hola locuras
